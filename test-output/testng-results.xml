@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="101819" started-at="2019-12-18T05:27:46Z" finished-at="2019-12-18T05:29:28Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="101819" started-at="2019-12-18T05:27:46Z" finished-at="2019-12-18T05:29:28Z">
+      <class name="com.hrms.TestScripts.TC_101">
+        <test-method status="PASS" signature="TC101()[pri:0, instance:com.hrms.TestScripts.TC_101@6073f712]" name="TC101" duration-ms="58849" started-at="2019-12-18T10:57:46Z" finished-at="2019-12-18T10:58:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC101 -->
+      </class> <!-- com.hrms.TestScripts.TC_101 -->
+      <class name="com.hrms.TestScripts.TC_102">
+        <test-method status="PASS" signature="TC_102()[pri:0, instance:com.hrms.TestScripts.TC_102@e73f9ac]" name="TC_102" duration-ms="42956" started-at="2019-12-18T10:58:45Z" finished-at="2019-12-18T10:59:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_102 -->
+      </class> <!-- com.hrms.TestScripts.TC_102 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
